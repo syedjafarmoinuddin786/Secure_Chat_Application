@@ -1,4 +1,4 @@
-# Secure Multi-Client Chat (Cybersecurity Mini-Project)
+# Secure Multi-Client Chat 
 
 A multi-client, passphrase-authenticated chat system in Python. Messages are
 encrypted with Fernet (AES-128-CBC + HMAC-SHA256), key derived from a shared
